@@ -21,7 +21,7 @@
 
 <br/>
 
-- 🙌 I'm currently open to: **Software Engineering | Data Engineering | Full-Stack Web Development Roles**
+- 🙌 I'm currently open to: **Web Dev Internship | Web Dev Apprenticeship**
 
 <br/><br/>
 
@@ -39,7 +39,7 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 
-- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
+- 👯 I’m looking to collaborate on: **Front-end Web Dev Project**
 
 - 💬 Ask me about: **Web Development | Anime | Music | Kirby**
 
