@@ -2,7 +2,7 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-# Welcome To My GitHub Profile !
+# Hello ! I'm Mehdi AL SID CHEIKH And Welcome To My GitHub Profile !
 
 <br/>
 <div align="center">
@@ -49,7 +49,7 @@
 
     * [**Drop a Mail**](mailto:mehdialsidcheikh@gmail.com)
 
-    * [**Connect via LinkedIn**](linkedin.com/in/mehdi-al-sid-cheikh-5843851b8)
+    * [**Connect via LinkedIn**](https://www.linkedin.com/in/mehdi-al-sid-cheikh-5843851b8)
 
     * [**Visit my Website**](https://mehdiyessido.wixsite.com/portfolio)
     
@@ -61,8 +61,8 @@
 
 - ⚡ Fun Facts: 
 
-    * *Besides programming, I'm a [**Technical Content Writer**](https://www.mindbrews.in/author/raghav-khullar/), a **Melophile** and love to cook.*
+    * *Besides programming, I love travelling and discovering new places, especially when I travel abroad (sadly I can't leave due to the pandemic).*
 
-    * *You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.*
+    * *I also LOVE sleeping and eating (when I have the time to do so). They're essential to our well being I enjoy both of them. (By the way, for me food is more important than mone, so you know how to pay me now).*
     
-    * *If you're still reading, why not follow me ?? Let's Connect !!*
+    * *To be more serious, Being a front-end developper is my adult dream and I hope I will be an amazing when I'm done with school !*
