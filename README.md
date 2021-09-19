@@ -65,6 +65,8 @@
 
     * *I also LOVE sleeping and eating (when I have the time to do so). They're essential to our well being I enjoy both of them. (By the way, for me food is more important than mone, so you know how to pay me now).*
     
+    * *As you can see, I love Kirby. I spent my entire childhood playing Kirby video games. Therefore, I love him. Plus, he's adorable, don't you think so too ?*
+    
     * *To be more serious, Being a front-end developper is my adult dream and I hope I will be an amazing when I'm done with school !*
 
 <div align="center">
