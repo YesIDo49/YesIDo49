@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on: **Full-Stack Web Dev**
 
-- 🌱 I’m currently learning: **Use of Github | Arduino | Advanced SQL | Advanced Front-end | PHP **
+- 🌱 I’m currently learning: **Use of Github | Arduino | Advanced SQL | Advanced Front-end | PHP**
 
 
 <div align="center">
